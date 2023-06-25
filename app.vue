@@ -1,5 +1,10 @@
 <template>
-<form name="contact" method="POST" data-netlify="true" action="/thank-you">
+<form 
+  name="contact" 
+  method="POST"  
+  data-netlify="true" 
+  action="/thank-you">
+  
   <input type="hidden" name="form-name" value="contact">
 
   <label for="name">Name:</label>
