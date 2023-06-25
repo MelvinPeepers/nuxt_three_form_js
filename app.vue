@@ -3,7 +3,7 @@
 
     <form name="contactone" method="POST" data-netlify="true">
 
-      <input type="hidden" name="form-name" value="contactone">
+      <input type="hidden" name="form-name" value="contactone" />
 
       <p>
       <label>Your Name: <input type="text" name="name" /></label>
