@@ -58,11 +58,6 @@
                     <input type="text" id="title" name="title" placeholder="Title of message">
                 </div>
 
-                <div class="column">
-                    <label for="phone">Phone Number</label>
-                    <input type="tel" id="phone" name="phone" placeholder="Phone number here">
-                </div>
-
             </div>
 
             <div class="row">
@@ -82,3 +77,8 @@
 
 <!-- 
 build command: npm run generate -->
+
+
+<style>
+@import url("assets/styling.css");
+</style>
